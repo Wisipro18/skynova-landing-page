@@ -1,6 +1,7 @@
 /* Card flip effect */
 .feature-card {
   perspective: 1000px;
+  height: 200px;
 }
 .feature-inner {
   transition: transform 0.8s;
